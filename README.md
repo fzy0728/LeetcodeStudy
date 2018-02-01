@@ -1,7 +1,14 @@
 # LeetcodeStudy
 
 #### 对leetcode上的代码进行一下记录,希望对自己的能力可以得到提升
-/leetcode  中存放着代码
+
+##### /leetcode  中存放着代码
+
+##### 部分题的算法分析放在了
+[Qarnet的博客园](http://www.cnblogs.com/fzy0331-leetcodestudy/)
+[Qarnet的简书]([https://www.jianshu.com/u/005aaa588d33])
+
+
 
 |题号 | 题目链接 | 题目代码 |
 |:-------:|:-----: |:--------:|
