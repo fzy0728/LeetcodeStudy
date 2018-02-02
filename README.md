@@ -16,9 +16,10 @@
 |:-------:|:-----: |:--------:|
 |  3 |[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)   |[code](https://github.com/fzy0728/LeetcodeStudy/blob/master/leetcode/LengthSubString.py)   |
 |  4 |[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)|[code](https://github.com/fzy0728/LeetcodeStudy/blob/master/leetcode/MedianofTwoSortedArrays.py)|
-|  5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | [code](https://github.com/fzy0728/LeetcodeStudy/blob/master/leetcode/LongestPalindromicSubstring.py)  |
+|  5 |[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | [code](https://github.com/fzy0728/LeetcodeStudy/blob/master/leetcode/LongestPalindromicSubstring.py)  |
 |  6 |[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)   | [code](https://github.com/fzy0728/LeetcodeStudy/blob/master/leetcode/ZigZagConversion.py)  |
-|  7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)  | [code](https://github.com/fzy0728/LeetcodeStudy/blob/master/leetcode/ReverseInteger.py)  |
+|  7 |[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)  | [code](https://github.com/fzy0728/LeetcodeStudy/blob/master/leetcode/ReverseInteger.py)  |
+|  8 |[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/)|[code](https://github.com/fzy0728/LeetcodeStudy/blob/master/leetcode/StringtoInteger.py)|
 |  9 |[Palindrome Number](https://github.com/fzy0728/LeetcodeStudy/blob/master/leetcode/ReverseInteger.py)   |[code](https://github.com/fzy0728/LeetcodeStudy/blob/master/leetcode/PalindromeNumber.py)   |
 |  11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)  |[code](https://github.com/fzy0728/LeetcodeStudy/blob/master/leetcode/ContainerWithMostWater.py)   |
 |  12 |[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/)   |[code](https://github.com/fzy0728/LeetcodeStudy/blob/master/leetcode/IntegertoRoman.py)   |
