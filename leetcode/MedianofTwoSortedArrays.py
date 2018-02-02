@@ -17,9 +17,9 @@ class Solution(object):
             i = (imin+imax)/2
             j = halflen - i
             if(i<imax and nums1[i]<nums2[j-1]):
-                imin = imin+1
+                imin = i+1
             elif(i>imin and nums2[j]<nums1[i-1]):
-                imax = imax-1
+                imax = i-1
             else:
                 maxleft = 0
                 if(i==0):
