@@ -31,3 +31,4 @@
 |22   |[ Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)   | [code](https://github.com/fzy0728/LeetcodeStudy/blob/master/leetcode/GenerateParentheses.py)  |
 |23   |[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)   |[code](https://github.com/fzy0728/LeetcodeStudy/blob/master/leetcode/MergekSortedLists.py)   |
 |24   |[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)   |[code](https://github.com/fzy0728/LeetcodeStudy/blob/master/leetcode/SwapNodesinPairs.py)   |
+|25   |[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)   |[code](https://github.com/fzy0728/LeetcodeStudy/blob/master/leetcode/ReverseNodesinkGroup.py)   |
