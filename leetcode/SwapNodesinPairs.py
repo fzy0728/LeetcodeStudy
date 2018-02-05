@@ -19,15 +19,13 @@ class Solution(object):
             return start.next
         else:
             while(node!=None and node.next!=None and node.next.next!=None):
-                print node.val
                 temp = node.next
-                node.next = temp.next
+                node.next = node.next.next
                 temp.next = node.next.next
                 node.next.next = temp
                 node = node.next.next
             return start.next
-
-
+        
 def printL(head):
     while(head!=None):
         print head.val,
@@ -38,7 +36,8 @@ if __name__ == '__main__':
     head.next = ListNode(2)
     head.next.next = ListNode(3)
     head.next.next.next = ListNode(4)
-    # head.next.next.next.next = ListNode(5)
+    head.next.next.next.next = ListNode(5)
     printL(head)
+    print ''
     s = Solution()
     printL(s.swapPairs(head))
