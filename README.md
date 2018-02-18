@@ -24,11 +24,17 @@
 |  11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)  |[code](https://github.com/fzy0728/LeetcodeStudy/blob/master/leetcode/ContainerWithMostWater.py)   |
 |  12 |[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/)   |[code](https://github.com/fzy0728/LeetcodeStudy/blob/master/leetcode/IntegertoRoman.py)   |
 |  14 |[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)   |[code](https://github.com/fzy0728/LeetcodeStudy/blob/master/leetcode/LongestCommonPrefix.py)   |
-|17   |[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)   | [code](https://github.com/fzy0728/LeetcodeStudy/blob/master/leetcode/LetterCombinationsPhoneNumber.py)  |
+|  17 |[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)   | [code](https://github.com/fzy0728/LeetcodeStudy/blob/master/leetcode/LetterCombinationsPhoneNumber.py)  |
 |  19 |[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)   |[code](https://github.com/fzy0728/LeetcodeStudy/blob/master/leetcode/RemoveNthNodeFromEndofList.py)   |
-|20   |  [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) |[code](https://github.com/fzy0728/LeetcodeStudy/blob/master/leetcode/ValidParentheses.py)   |
-|21   |[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)   |[code](https://github.com/fzy0728/LeetcodeStudy/blob/master/leetcode/MergeTwoSortedLists.py)   |
-|22   |[ Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)   | [code](https://github.com/fzy0728/LeetcodeStudy/blob/master/leetcode/GenerateParentheses.py)  |
-|23   |[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)   |[code](https://github.com/fzy0728/LeetcodeStudy/blob/master/leetcode/MergekSortedLists.py)   |
-|24   |[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)   |[code](https://github.com/fzy0728/LeetcodeStudy/blob/master/leetcode/SwapNodesinPairs.py)   |
-|25   |[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)   |[code](https://github.com/fzy0728/LeetcodeStudy/blob/master/leetcode/ReverseNodesinkGroup.py)   |
+|  20 |  [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) |[code](https://github.com/fzy0728/LeetcodeStudy/blob/master/leetcode/ValidParentheses.py)   |
+|  21 |[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)   |[code](https://github.com/fzy0728/LeetcodeStudy/blob/master/leetcode/MergeTwoSortedLists.py)   |
+|  22 |[ Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)   | [code](https://github.com/fzy0728/LeetcodeStudy/blob/master/leetcode/GenerateParentheses.py)  |
+|  23 |[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)   |[code](https://github.com/fzy0728/LeetcodeStudy/blob/master/leetcode/MergekSortedLists.py)   |
+|  24 |[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)   |[code](https://github.com/fzy0728/LeetcodeStudy/blob/master/leetcode/SwapNodesinPairs.py)   |
+|  25 |[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)   |[code](https://github.com/fzy0728/LeetcodeStudy/blob/master/leetcode/ReverseNodesinkGroup.py)   |
+|  26 |[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|[code](https://github.com/fzy0728/LeetcodeStudy/blob/master/leetcode/RemoveDuplicatesfromSortedArray.py)|
+|  27 |[Remove Element](https://leetcode.com/problems/remove-element/description/)|[code](https://github.com/fzy0728/LeetcodeStudy/blob/master/leetcode/RemoveElement.py)|
+|  28 |[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/)|[code](https://github.com/fzy0728/LeetcodeStudy/blob/master/leetcode/ImplementstrStr.py)|
+|  29 |[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/)|[code](https://github.com/fzy0728/LeetcodeStudy/blob/master/leetcode/DivideTwoIntegers.py)|
+|  32 |[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/)|[code](https://github.com/fzy0728/LeetcodeStudy/blob/master/leetcode/LongestValidParentheses.py)|
+||||
