@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d08cecf-0ce3-474f-ad61-c4535ecfbad9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/CombinationSumII.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/FirstMissingPositive.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -99,7 +99,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CombinationSumII.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CombinationSumII.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcode/CombinationSumII.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="342">
@@ -109,11 +109,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GenerateParentheses.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/GenerateParentheses.py">
+      <file leaf-file-name="FirstMissingPositive.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leetcode/FirstMissingPositive.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="702">
-              <caret line="39" column="34" lean-forward="false" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="34" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -152,6 +152,7 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/leetcode/CombinationSum.py" />
         <option value="$PROJECT_DIR$/leetcode/CombinationSumII.py" />
+        <option value="$PROJECT_DIR$/leetcode/FirstMissingPositive.py" />
       </list>
     </option>
   </component>
@@ -211,7 +212,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.CombinationSumII">
+  <component name="RunManager" selected="Python.FirstMissingPositive">
     <configuration name="CombinationSum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -263,7 +264,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="SearchInsertPosition" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="FirstMissingPositive" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -275,7 +276,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LeetcodeStudy" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/SearchInsertPosition.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/FirstMissingPositive.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -298,19 +299,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.SearchInsertPosition" />
-      <item index="1" class="java.lang.String" itemvalue="Python.ValidSudoku" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Count and Say" />
-      <item index="3" class="java.lang.String" itemvalue="Python.CombinationSum" />
-      <item index="4" class="java.lang.String" itemvalue="Python.CombinationSumII" />
+      <item index="0" class="java.lang.String" itemvalue="Python.ValidSudoku" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Count and Say" />
+      <item index="2" class="java.lang.String" itemvalue="Python.CombinationSum" />
+      <item index="3" class="java.lang.String" itemvalue="Python.CombinationSumII" />
+      <item index="4" class="java.lang.String" itemvalue="Python.FirstMissingPositive" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.CombinationSumII" />
-        <item index="1" class="java.lang.String" itemvalue="Python.CombinationSum" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Count and Say" />
-        <item index="3" class="java.lang.String" itemvalue="Python.ValidSudoku" />
-        <item index="4" class="java.lang.String" itemvalue="Python.SearchInsertPosition" />
+        <item index="0" class="java.lang.String" itemvalue="Python.FirstMissingPositive" />
+        <item index="1" class="java.lang.String" itemvalue="Python.CombinationSumII" />
+        <item index="2" class="java.lang.String" itemvalue="Python.CombinationSum" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Count and Say" />
+        <item index="4" class="java.lang.String" itemvalue="Python.ValidSudoku" />
       </list>
     </recent_temporary>
   </component>
@@ -361,13 +362,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/leetcode/Sum3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/StringtoInteger.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -669,14 +663,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/LongestValidParentheses.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="35" lean-forward="false" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/LongestPalindromicSubstring.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
@@ -742,6 +728,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/LongestValidParentheses.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="35" lean-forward="false" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/FirstMissingPositive.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="23" />
           <folding />
         </state>
       </provider>
