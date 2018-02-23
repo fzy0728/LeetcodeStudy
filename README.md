@@ -37,4 +37,8 @@
 |  28 |[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/)|[code](https://github.com/fzy0728/LeetcodeStudy/blob/master/leetcode/ImplementstrStr.py)|
 |  29 |[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/)|[code](https://github.com/fzy0728/LeetcodeStudy/blob/master/leetcode/DivideTwoIntegers.py)|
 |  32 |[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/)|[code](https://github.com/fzy0728/LeetcodeStudy/blob/master/leetcode/LongestValidParentheses.py)|
+|  34 |[Search for a Range](https://leetcode.com/problems/search-for-a-range/description/)|[code](https://github.com/fzy0728/LeetcodeStudy/blob/master/leetcode/SearchforRange.py)|
+|  35 |[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)|[code](https://github.com/fzy0728/LeetcodeStudy/blob/master/leetcode/SearchInsertPosition.py)|
+|  36 |[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)|[code](https://github.com/fzy0728/LeetcodeStudy/blob/master/leetcode/ValidSudoku.py)|
+|  38 |[Count and Say](https://leetcode.com/problems/count-and-say/description/)|[code](https://github.com/fzy0728/LeetcodeStudy/blob/master/leetcode/CountandSay.py)|
 ||||

@@ -6,18 +6,6 @@ class Solution(object):
         """
 
         s = '1*'
-        # for i in range(n):
-        #     count = 1
-        #     st = ''
-        #     for j in range(len(s)-1):
-        #         if s[j] == s[j+1]:
-        #             count+=1
-        #         else:
-        #             st+=str(count)+s[j]
-        #             count = 1
-        #     if len(s) == 1:
-        #         st += str(count) + s[0]
-        #     s = st
         for i in range(n-1):
             count = 1
             st = ''
@@ -29,8 +17,6 @@ class Solution(object):
                     count = 1
             s = st+'*'
         return s[0:len(s)-1]
-
-
 
 
 if __name__ == '__main__':
