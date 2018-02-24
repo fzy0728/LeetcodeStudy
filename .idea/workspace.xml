@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d08cecf-0ce3-474f-ad61-c4535ecfbad9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/FirstMissingPositive.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/TrappingRainWater.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,16 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LongestPalindromicSubstring.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/LongestPalindromicSubstring.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="28" column="27" lean-forward="false" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="SearchforRange.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcode/SearchforRange.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -109,11 +99,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FirstMissingPositive.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FirstMissingPositive.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcode/FirstMissingPositive.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TrappingRainWater.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leetcode/TrappingRainWater.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -153,6 +153,7 @@
         <option value="$PROJECT_DIR$/leetcode/CombinationSum.py" />
         <option value="$PROJECT_DIR$/leetcode/CombinationSumII.py" />
         <option value="$PROJECT_DIR$/leetcode/FirstMissingPositive.py" />
+        <option value="$PROJECT_DIR$/leetcode/TrappingRainWater.py" />
       </list>
     </option>
   </component>
@@ -212,7 +213,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.FirstMissingPositive">
+  <component name="RunManager" selected="Python.TrappingRainWater">
     <configuration name="CombinationSum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -281,7 +282,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="ValidSudoku" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="TrappingRainWater" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -293,25 +294,25 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LeetcodeStudy" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/ValidSudoku.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/TrappingRainWater.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.ValidSudoku" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Count and Say" />
-      <item index="2" class="java.lang.String" itemvalue="Python.CombinationSum" />
-      <item index="3" class="java.lang.String" itemvalue="Python.CombinationSumII" />
-      <item index="4" class="java.lang.String" itemvalue="Python.FirstMissingPositive" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Count and Say" />
+      <item index="1" class="java.lang.String" itemvalue="Python.CombinationSum" />
+      <item index="2" class="java.lang.String" itemvalue="Python.CombinationSumII" />
+      <item index="3" class="java.lang.String" itemvalue="Python.FirstMissingPositive" />
+      <item index="4" class="java.lang.String" itemvalue="Python.TrappingRainWater" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.FirstMissingPositive" />
-        <item index="1" class="java.lang.String" itemvalue="Python.CombinationSumII" />
-        <item index="2" class="java.lang.String" itemvalue="Python.CombinationSum" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Count and Say" />
-        <item index="4" class="java.lang.String" itemvalue="Python.ValidSudoku" />
+        <item index="0" class="java.lang.String" itemvalue="Python.TrappingRainWater" />
+        <item index="1" class="java.lang.String" itemvalue="Python.FirstMissingPositive" />
+        <item index="2" class="java.lang.String" itemvalue="Python.CombinationSumII" />
+        <item index="3" class="java.lang.String" itemvalue="Python.CombinationSum" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Count and Say" />
       </list>
     </recent_temporary>
   </component>
@@ -362,13 +363,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/leetcode/StringtoInteger.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/RomantoInteger.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -744,6 +738,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/TrappingRainWater.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding />
         </state>
       </provider>
