@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d08cecf-0ce3-474f-ad61-c4535ecfbad9" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/GroupAnagrams.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/LeetcodeStudy.iml" afterPath="$PROJECT_DIR$/.idea/LeetcodeStudy.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/Powxn.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,11 +24,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GroupAnagrams.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GroupAnagrams.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcode/GroupAnagrams.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="570">
               <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Powxn.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leetcode/Powxn.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -86,6 +94,7 @@
         <option value="$PROJECT_DIR$/leetcode/RotateImage.py" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/leetcode/GroupAnagrams.py" />
+        <option value="$PROJECT_DIR$/leetcode/Powxn.py" />
       </list>
     </option>
   </component>
@@ -146,7 +155,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.GroupAnagrams">
+  <component name="RunManager" selected="Python.Powxn">
     <configuration name="FirstMissingPositive" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -201,7 +210,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="ReverseString" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Powxn" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -213,7 +222,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LeetcodeStudy" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/ReverseString.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/Powxn.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -240,17 +249,17 @@
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.FirstMissingPositive" />
       <item index="1" class="java.lang.String" itemvalue="Python.Permutations" />
-      <item index="2" class="java.lang.String" itemvalue="Python.ReverseString" />
-      <item index="3" class="java.lang.String" itemvalue="Python.RotateImage" />
-      <item index="4" class="java.lang.String" itemvalue="Python.GroupAnagrams" />
+      <item index="2" class="java.lang.String" itemvalue="Python.RotateImage" />
+      <item index="3" class="java.lang.String" itemvalue="Python.GroupAnagrams" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Powxn" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.GroupAnagrams" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Permutations" />
-        <item index="2" class="java.lang.String" itemvalue="Python.RotateImage" />
-        <item index="3" class="java.lang.String" itemvalue="Python.FirstMissingPositive" />
-        <item index="4" class="java.lang.String" itemvalue="Python.ReverseString" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Powxn" />
+        <item index="1" class="java.lang.String" itemvalue="Python.GroupAnagrams" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Permutations" />
+        <item index="3" class="java.lang.String" itemvalue="Python.RotateImage" />
+        <item index="4" class="java.lang.String" itemvalue="Python.FirstMissingPositive" />
       </list>
     </recent_temporary>
   </component>
@@ -282,7 +291,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39910313" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39808917" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -299,12 +308,18 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="5" />
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="6" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md" />
     <entry file="file://$PROJECT_DIR$/leetcode/GenerateParentheses.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="702">
@@ -665,6 +680,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
           <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/Powxn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
         </state>
       </provider>
