@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d08cecf-0ce3-474f-ad61-c4535ecfbad9" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/GroupAnagrams.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/LeetcodeStudy.iml" afterPath="$PROJECT_DIR$/.idea/LeetcodeStudy.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,11 +16,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="497">
-              <caret line="49" column="17" lean-forward="false" selection-start-line="49" selection-start-column="17" selection-end-line="49" selection-end-column="17" />
+            <state relative-caret-position="527">
+              <caret line="50" column="121" lean-forward="false" selection-start-line="50" selection-start-column="121" selection-end-line="50" selection-end-column="121" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GroupAnagrams.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leetcode/GroupAnagrams.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -73,6 +85,7 @@
         <option value="$PROJECT_DIR$/leetcode/Permutations.py" />
         <option value="$PROJECT_DIR$/leetcode/RotateImage.py" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/leetcode/GroupAnagrams.py" />
       </list>
     </option>
   </component>
@@ -119,7 +132,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -133,7 +146,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Permutations">
+  <component name="RunManager" selected="Python.GroupAnagrams">
     <configuration name="FirstMissingPositive" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -152,7 +165,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="MultiplyStrings" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="GroupAnagrams" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -164,7 +177,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LeetcodeStudy" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/MultiplyStrings.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/GroupAnagrams.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -226,18 +239,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.FirstMissingPositive" />
-      <item index="1" class="java.lang.String" itemvalue="Python.MultiplyStrings" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Permutations" />
-      <item index="3" class="java.lang.String" itemvalue="Python.ReverseString" />
-      <item index="4" class="java.lang.String" itemvalue="Python.RotateImage" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Permutations" />
+      <item index="2" class="java.lang.String" itemvalue="Python.ReverseString" />
+      <item index="3" class="java.lang.String" itemvalue="Python.RotateImage" />
+      <item index="4" class="java.lang.String" itemvalue="Python.GroupAnagrams" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Permutations" />
-        <item index="1" class="java.lang.String" itemvalue="Python.RotateImage" />
-        <item index="2" class="java.lang.String" itemvalue="Python.FirstMissingPositive" />
-        <item index="3" class="java.lang.String" itemvalue="Python.ReverseString" />
-        <item index="4" class="java.lang.String" itemvalue="Python.MultiplyStrings" />
+        <item index="0" class="java.lang.String" itemvalue="Python.GroupAnagrams" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Permutations" />
+        <item index="2" class="java.lang.String" itemvalue="Python.RotateImage" />
+        <item index="3" class="java.lang.String" itemvalue="Python.FirstMissingPositive" />
+        <item index="4" class="java.lang.String" itemvalue="Python.ReverseString" />
       </list>
     </recent_temporary>
   </component>
@@ -291,13 +304,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/leetcode/ReverseNodesinkGroup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1206">
-          <caret line="67" column="33" lean-forward="false" selection-start-line="67" selection-start-column="33" selection-end-line="67" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md" />
     <entry file="file://$PROJECT_DIR$/leetcode/GenerateParentheses.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -639,6 +645,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="50" column="121" lean-forward="false" selection-start-line="50" selection-start-column="121" selection-end-line="50" selection-end-column="121" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/Permutations.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -647,10 +661,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/leetcode/GroupAnagrams.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="497">
-          <caret line="49" column="17" lean-forward="false" selection-start-line="49" selection-start-column="17" selection-end-line="49" selection-end-column="17" />
+        <state relative-caret-position="570">
+          <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
           <folding />
         </state>
       </provider>
