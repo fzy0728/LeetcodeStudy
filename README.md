@@ -42,3 +42,10 @@
 |  36 |[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)|[code](https://github.com/fzy0728/LeetcodeStudy/blob/master/leetcode/ValidSudoku.py)|
 |  38 |[Count and Say](https://leetcode.com/problems/count-and-say/description/)|[code](https://github.com/fzy0728/LeetcodeStudy/blob/master/leetcode/CountandSay.py)|
 |  39 |[Combination Sum](https://leetcode.com/problems/combination-sum/description/)|[code](https://github.com/fzy0728/LeetcodeStudy/blob/master/leetcode/CombinationSum.py)|
+|  40 |[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)|[code](https://github.com/fzy0728/LeetcodeStudy/blob/master/leetcode/CombinationSumII.py)|
+|  41 |[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)|[code](https://github.com/fzy0728/LeetcodeStudy/blob/master/leetcode/FirstMissingPositive.py)|
+|  42 |[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)|[code](https://github.com/fzy0728/LeetcodeStudy/blob/master/leetcode/TrappingRainWater.py)|
+|  43 |[Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)|[code](https://github.com/fzy0728/LeetcodeStudy/blob/master/leetcode/MultiplyStrings.py)|
+|  46 |[Permutations](https://leetcode.com/problems/permutations/description/)|[code](https://github.com/fzy0728/LeetcodeStudy/blob/master/leetcode/Permutations.py)|
+|  47 |[Permutations II](https://leetcode.com/problems/permutations-ii/description/)|[code](https://github.com/fzy0728/LeetcodeStudy/blob/master/leetcode/Permutations.py)|
+|  48 |[Rotate Image](https://leetcode.com/problems/rotate-image/description/)|[code](https://github.com/fzy0728/LeetcodeStudy/blob/master/leetcode/RotateImage.py)|
