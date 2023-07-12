@@ -1,0 +1,21 @@
+class Solution(object):
+    def finalPrices(self, prices):
+        """
+        :type prices: List[int]
+        :rtype: List[int]
+        输入：prices = [8,4,6,2,3]
+        输出：[4,2,4,2,3]
+        """
+        n = len(prices)
+        stack = [0]
+        ans = [0] * n
+        for i in range(n - 1, -1, -1):
+            # print(i)
+            p = prices[i]
+            while len(stack) > 1 and stack[-1] > p:
+                stack.pop()
+            ans[i] = p - stack[-1]
+            stack.append(p)
+        return ans
+
+        
